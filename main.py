@@ -1,3 +1,2 @@
 import telebot
 
-drt
